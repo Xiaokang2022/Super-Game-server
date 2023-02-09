@@ -1,0 +1,13 @@
+{
+    "password": "2022",
+    "data": {
+        "level": 0,
+        "exp": 0,
+        "money": 0,
+        "sex": null,
+        "age": null,
+        "date": null,
+        "profile": null
+    },
+    "friend": []
+}

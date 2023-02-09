@@ -1,0 +1,10 @@
+
+命令                            作用
+help                            获取帮助信息
+connection                      查看连接列表
+attendance                      查看签到列表
+room                            查看房间字典
+time                            查看服务器运行时间
+say ...                         广播
+kick ...                        踢出用户
+clear [connection/attendance]   断开连接/清空签到列表
